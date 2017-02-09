@@ -1088,19 +1088,19 @@ g image:hover {
 }
 
 #menuheaderthema.actief {
-	background-color:#d85b00;
+	background-color:#004175;
 }
 
 #menuheaderonderzoek.actief {
-	background-color:#3d793a;
+	background-color:#a4c401;
 }
 
 #menuheaderthema {
-	background-color:#fb6b00;
+	background-color:#a4c401;
 }
 
 #menuheaderonderzoek {
-	background-color:#44a140;
+	background-color:#004175;
 }
 
 .menuheadertext{
@@ -1306,7 +1306,7 @@ clear: left;
         display: block;
         position: relative;
 	padding: 15px 25px;
-        background: rgba(0,0,0,0.1);
+        background: rgba(164,196,1,0.3);
 }
 
 .accordion-header{
@@ -1318,7 +1318,8 @@ clear: left;
 }
 
 .accordion-header:hover{
-	background-color: #FFFFFF;
+        background-color:rgba(0,65,117,0.6);
+        color: #FFFFFF;
 	cursor: pointer;
 }
 
