@@ -13,14 +13,14 @@ define([],
 				showSingleTimeInstance: false
 			},
 			{
-				id: "0ba86f62b67c4e0e9138d06e27e90df2",
-				title: "(evt. tweede thema)",
+				id: "494ef6c8d56943919a70bbb85433a0e3",
+				title: "Groenbeheer",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
 			}
 			],
 			//Enter a title, if no title is specified, the first webmap's title is used.
-			title: "Integrale projecten meerjarenprogramma",
+			title: "IB meerjarenprogramma",
 			//Enter a subtitle, if no subtitle is specified, the first webmap's subtitle is used.
 			//subtitle: "",
 			// If false, each tab will have a number on it. If true, the first tab will not have a number and the second tab will start counting at 1.
