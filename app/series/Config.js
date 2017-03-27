@@ -8,43 +8,49 @@ define([],
 			webmaps: [
 			{
 				id: "0ba86f62b67c4e0e9138d06e27e90df2",
-				title: "Integrale projecten",
+				title: "Totale meerjarenplanning",
+				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
+				showSingleTimeInstance: false
+			},				
+			{
+				id: "4112c1646c594718a4d579b762a101aa",
+				title: "Civiele Kunstwerken",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
 			},
 			{
-				id: "494ef6c8d56943919a70bbb85433a0e3",
-				title: "Groenbeheer",
-				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
-				showSingleTimeInstance: false			},
-			{
-				id: "8986d3c6c9c5499b9114d0f1ccacc3c0",
-				title: "Fonteinen",
+				id: "3fe26e5d39d449a2acd9c45a2f2f9190",
+				title: "Groen",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
-},
-			{
-				id: "4361cd474e0d43c5bc8bfe683adcb17d",
-				title: "Verkeer",
-				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
-				showSingleTimeInstance: false
-
 			},
 			{
-				id: "3693839a3d03436cb3fabbed80a37c33",
+				id: "e171a0a354d34e1ba06b95d1b0d1631f",
+				title: "Installaties",
+				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
+				showSingleTimeInstance: false
+			},
+			{
+				id: "2b951ec14a564ca093dfc8d48f6ed30c",
 				title: "Riolering",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
 			},
 			{
-				id: "4aba7a0fd588475d96a9e83ee6032e1d",
-				title: "Leidingen en gemalen",
+				id: "8a5dd201c72748feac9c6e9d9c993046",
+				title: "Spelen",
+				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
+				showSingleTimeInstance: false
+			},
+			{
+				id: "946f92656fa84353a0c01e4024a48b22",
+				title: "Verkeer",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
 			}
 			],
 			//Enter a title, if no title is specified, the first webmap's title is used.
-			title: "IB meerjarenprogramma",
+			title: "Integrale projecten meerjarenprogramma",
 			//Enter a subtitle, if no subtitle is specified, the first webmap's subtitle is used.
 			//subtitle: "",
 			// If false, each tab will have a number on it. If true, the first tab will not have a number and the second tab will start counting at 1.
