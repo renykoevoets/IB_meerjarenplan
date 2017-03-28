@@ -47,6 +47,12 @@ define([],
 				title: "Verkeer",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
+			},
+			{
+				id: "bf8ba03fe06243a19e89339c803d2fb2",
+				title: "Wegen",
+				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
+				showSingleTimeInstance: false
 			}
 			],
 			//Enter a title, if no title is specified, the first webmap's title is used.
